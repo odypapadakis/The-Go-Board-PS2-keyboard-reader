@@ -5,7 +5,5 @@ Beore Trying to implement the project on the FPGA, A simulation using ModelSim w
 
 Iterations of the Deisgn will be tested and debugged using a testbench.
 
-### A photo of the implementation
-![](Photo1.png)
 
 

@@ -10,6 +10,9 @@
  The PS/s keyboard operates at 5.0 V .
   therefore a logic level converter circuit is included in the design.
 
+### A photo of the implementation
+![Photo of the Deisgn ](Photo1.jpg)
+
   In order to simulate a real world Design, 
 
 
