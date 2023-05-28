@@ -8,17 +8,17 @@ A logic analyzer is connected to the 3.3V outputs of the logic level converter.
 ### The folowing keys are pressed sequentially on the keyboard
 | key | expected scancode |
 | - | - | 
-| 1 | 16  |
+|Press 1 | 16  |
 |Release  1 | F016 |
-| 2 | 1E |
+|Press 2 | 1E |
 |Release  2 | F01E |
-| 3 | 26|
+|Press 3 | 26|
 |Release  3 | F026 |
-| A |  1C | 
+|Press A |  1C | 
 |Release  A | F01C |
-| B | 32 |
+|Press B | 32 |
 |Release  B | F032 |
-| C | 21 | 
+|Press C | 21 | 
 |Release  C | F021 |
 
 ### The following output is observerd with the logic analyzer.
