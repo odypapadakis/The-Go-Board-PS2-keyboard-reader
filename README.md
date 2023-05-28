@@ -13,7 +13,18 @@
 ### A photo of the implementation
 ![Photo of the Deisgn ](Photo1.jpg)
 
-  In order to simulate a real world Design, 
+
+The Design Flow will be as folows : 
+
+ #### 1. Keyboard and logic level converter Verification.    
+    This will be accomplished by connecting the keyboard to the logic level converter   
+    and probing  the outputs of the converted signals with a Logic Analyzer.    
+
+#### 2. HDL and Simulation.    
+    Before attemptin to run the project on the FPGA, a the design will be simulated using modelsim,
+    in order to perform the first round of debugging 
+
+#### 3. 
 
 
 
