@@ -9,6 +9,8 @@
  The FPGA ( Lattice ice40HX1k ) on the go board operates at 3.3V Logic.
  The PS/s keyboard operates at 5.0 V .
   therefore a logic level converter circuit is included in the design.
-  
+
+  In order to simulate a real world Design, 
+
 
 
