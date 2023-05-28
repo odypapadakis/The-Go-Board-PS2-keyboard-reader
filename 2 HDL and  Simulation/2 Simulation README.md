@@ -1,5 +1,5 @@
 # The-Go-Board-PS2-keyboard-reader
-## Phase 1 - Simulation
+## Part 2 - Simulation
 
 Beore Trying to implement the project on the FPGA, A simulation using ModelSim will be performed.
 
