@@ -3,7 +3,7 @@
 
 Beore Trying to implement the project on the FPGA, A simulation using ModelSim will be performed.
 
-Iterations of the Deisgn will be tested and debugged using a testbench.
+For this Deisgn, Modelsim Lattice FPGA Edition will be used.
 
 
 
