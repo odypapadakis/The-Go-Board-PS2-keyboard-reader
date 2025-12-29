@@ -5,6 +5,9 @@
  It is very handy for small VHDL / Verilog Projects .
  
  The FPGA ( Lattice ice40HX1k ) on the go board operates at 3.3V Logic.
+
+ For this project, a basic USB logic analyzer is also present.
+ 
  The PS/2 keyboard operates at 5.0 V .
  Therefore, a logic level converter circuit is included in the design, to allow the 2 components to talk to eachother 
 
